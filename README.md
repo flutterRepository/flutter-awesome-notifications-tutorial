@@ -1,12 +1,15 @@
 # Flutter Awesome Notifications
 
-### Learn from :point_right: [this post](https://resocoder.com/awesome-notifications-flutter-tutorial) :point_left:.
+## Implementation d'un système de notication dans une application Flutter
+Proof of Concept
 
-#### _Find more tutorials on [resocoder.com](https://resocoder.com)_
+# Interface de lancement
+![Screenshot_1637539910](https://user-images.githubusercontent.com/32512893/142784726-ba896f27-04c0-4725-bf7b-0f768308706d.png)
 
-<br />
-<br />
+# Notification simple
+![Screenshot_1637539280](https://user-images.githubusercontent.com/32512893/142784760-25eb6907-2202-4162-bc50-36604147ad2f.png)
 
-[![Reso Coder](https://resocoder.com/wp-content/uploads/2019/09/logo_with_text_signature.png)](https://resocoder.com)
-<br />
-_Be prepared for **real** app development_
+# Affichage de la notification
+![Screenshot_1637539346](https://user-images.githubusercontent.com/32512893/142784787-00e9e7a6-223c-4456-9430-df4d2490f163.png)
+# Plannification d'une notification (Rappel) 
+![Screenshot_1637539290](https://user-images.githubusercontent.com/32512893/142784802-2764d1f4-90fb-434e-8e74-649001075dcc.png)
